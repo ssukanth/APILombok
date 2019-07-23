@@ -1,0 +1,31 @@
+
+wsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÊÕ³8§ùËñ,
+Esquid:S1444")Make this "public static env" field final(ö†³Óüÿÿÿÿ
+"squid:ClassVariableVisibilityCheck"RMake result a static final constant or non-public and provide accessors if needed.(øÈ€W
+V
+squid:S106w"9Replace this use of System.out or System.err by a logger.(ø…À8áşùËñ,
+‚"squid:ClassVariableVisibilityCheck"OMake env a static final constant or non-public and provide accessors if needed.(ö†³Óüÿÿÿÿ
+;squid:S2386"Make this member "protected".(ÊÕ³8§ùËñ,
+@squid:S2386"Make this member "protected".(áï¬Êùÿÿÿÿ8ñ‘‡Íñ,
+‚"squid:ClassVariableVisibilityCheck"TMake response a static final constant or non-public and provide accessors if needed.(Ó†ß
+‰"squid:ClassVariableVisibilityCheck"TMake phoneSet a static final constant or non-public and provide accessors if needed.(ÊÕ³8§ùËñ,
+Dsquid:S1444"-Make this "public static request" field final(Ï½êì
+T
+squid:S106l"9Replace this use of System.out or System.err by a logger.(Æˆ±¦üÿÿÿÿ
+Esquid:S1444".Make this "public static response" field final(Ó†ß
+nsquid:S00100’"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇÂø”8áşùËñ,
+Lsquid:S1444".Make this "public static phoneSet" field final(ÊÕ³8§ùËñ,
+Bsquid:S1444",Make this "public static result" field final(øÈ€W
+Ksquid:S1444"/Make this "public static testProxy" field final(’¡Í›úÿÿÿÿ
+ˆ"squid:ClassVariableVisibilityCheck"UMake testProxy a static final constant or non-public and provide accessors if needed.(’¡Í›úÿÿÿÿ
+"squid:ClassVariableVisibilityCheck"SMake request a static final constant or non-public and provide accessors if needed.(Ï½êì
+[squid:S1444"8Make this "public static duplicatePhoneList" field final(áï¬Êùÿÿÿÿ8×•íœõ,
+[
+squid:S106k"9Replace this use of System.out or System.err by a logger.(¥ÿİÕûÿÿÿÿ8×•íœõ,
+[
+squid:S106v"9Replace this use of System.out or System.err by a logger.(¥ÿİÕûÿÿÿÿ8×•íœõ,
+V
+squid:S106¦"9Replace this use of System.out or System.err by a logger.(ß¿¨C8×•íœõ,
+˜"squid:ClassVariableVisibilityCheck"^Make duplicatePhoneList a static final constant or non-public and provide accessors if needed.(áï¬Êùÿÿÿÿ8×•íœõ,
+]squid:S1118":Add a private constructor to hide the implicit public one.(»«Œşÿÿÿÿ8×•íœõ,
+ksquid:S00112œ"FDefine and throw a dedicated exception instead of using a generic one.(›Ä½ øÿÿÿÿ8×•íœõ,

@@ -1,0 +1,10 @@
+
+nsquid:CommentedOutCodeLineD"<This block of commented-out lines of code should be removed.(¨ö×Íÿÿÿÿÿ8Þ‰Öõ,
+Fsquid:EmptyStatementUsageCheck@"Remove this empty statement.(ÜôÊÉ
+Rsquid:S2696"6Make the enclosing method "static" or remove this set.(…… –ùÿÿÿÿ
+isquid:CommentedOutCodeLine\"<This block of commented-out lines of code should be removed.(¿±¤®8¡™Õõ,
+Psquid:S1481?"-Remove this unused "document" local variable.(›±ÿÒûÿÿÿÿ8Þ‰Öõ,
+isquid:CommentedOutCodeLineB"<This block of commented-out lines of code should be removed.(œÑ†Â8Þ‰Öõ,
+Msquid:S2696"6Make the enclosing method "static" or remove this set.(ÄµØé
+zsquid:S1488."cImmediately return this expression instead of assigning it to the temporary variable "mongoClient".(Ø§˜è
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(üª¯úÿÿÿÿ8ØÒÖõ,

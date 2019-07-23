@@ -1,0 +1,13 @@
+# .gitignore for maven 
+target/
+
+# IDE support files
+.classpath
+.project
+.settings/
+.idea/
+
+**.iml
+
+
+
